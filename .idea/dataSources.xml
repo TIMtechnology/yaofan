@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="e99dba9e1c" uuid="fd9bc869-fbd7-4dfe-ae94-d1778dff9c3b">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:D:\php_pro\yaofan.timkj.com\app\db\e99dba9e1c.db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="tikmjyf" uuid="715a2697-b117-4840-b8b5-d542a3e95893">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:D:\php_pro\yaofan.timkj.com\app\db\tikmjyf.db</jdbc-url>
+    </data-source>
+  </component>
+</project>
